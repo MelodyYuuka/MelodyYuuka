@@ -1,5 +1,5 @@
 ### 👋 Hi there, 这里是旋律
-- 🌟 主要使用: 
+- 🔭 主要使用: 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-007396?mstyle=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
