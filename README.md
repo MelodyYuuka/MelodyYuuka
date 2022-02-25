@@ -9,6 +9,8 @@
 - 📫 有事联系: no848757@gmail.com
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2021%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -27,5 +29,5 @@ VS Code                  26 hrs 4 mins       ███████████�
 ```
 
 
- Last Updated on 25/02/2022 01:10:05 UTC
+ Last Updated on 25/02/2022 01:19:12 UTC
 <!--END_SECTION:waka-->
