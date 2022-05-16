@@ -9,8 +9,6 @@
 - 📫 有事联系: no848757@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -25,8 +23,11 @@ TOML                     0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  1 hr 27 mins        █████████████████████████   100.0%
 
+💻 Operating System: 
+Windows                  1 hr 27 mins        █████████████████████████   100.0%
+
 ```
 
 
- Last Updated on 16/05/2022 01:51:53 UTC
+ Last Updated on 16/05/2022 05:58:45 UTC
 <!--END_SECTION:waka-->
