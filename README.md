@@ -1,9 +1,4 @@
 ### 👋 Hi there, 这里是旋律
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=melodyyuuka&count_private=true&show_icons=true" />
-</a>
-
 - 🔭 主要使用: 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=fff)
@@ -13,6 +8,9 @@
 ![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 - 🐟 目前正在: 摸鱼, 学习
 - 📫 有事联系: no848757@gmail.com
+
+
+![](https://github-readme-stats.vercel.app/api?username=melodyyuuka&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
