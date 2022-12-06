@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=PostgreSQL&logoColor=fff)
 ![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 - 🐟 目前正在: 摸鱼, 学习
