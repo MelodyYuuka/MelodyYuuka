@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
   push:
     paths:
-      - wakatime.yml
+      - .github/workflows/wakatime.yml
 
 jobs:
   update-readme:
