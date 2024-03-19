@@ -2,13 +2,13 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=melodyyuuka&count_private=true&show_icons=true" />
 </a>
 
-## **👋 Hi there, I`m Melody.**
+**👋 Hi there, I`m Melody.**
 
 - 🔭 I’m currently working on YuukaBot-v6
 - 🌱 I’m currently learning: AI, Go, Rust and more!
 - 📫 How to reach me: melody@yunmengdu.cn
 
-## 🌟 **My Skills** 
+🌟 **My Skills** 
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=fff)
