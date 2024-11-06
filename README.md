@@ -45,7 +45,7 @@ Linux                    2 hrs 54 mins       ███████████�
 ```
 
 
- Last Updated on 05/11/2024 09:41:48 UTC+8
+ Last Updated on 06/11/2024 09:41:14 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
