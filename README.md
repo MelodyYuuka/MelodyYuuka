@@ -46,7 +46,7 @@ Windows                  4 hrs 44 mins       █████░░░░░░�
 ```
 
 
- Last Updated on 01/12/2025 10:25:54 UTC+8
+ Last Updated on 02/12/2025 10:02:18 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
