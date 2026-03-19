@@ -30,23 +30,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 41 mins      ███████████████░░░░░░░░░░   60.51 % 
-Markdown                 4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░    6.59 % 
-PowerShell               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    3.84 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    3.55 % 
+Python                   7 hrs 29 mins       █████████████░░░░░░░░░░░░   52.10 % 
+Markdown                 4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░    7.23 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    4.37 % 
+PowerShell               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    3.70 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 34 mins      █████████████████████████   99.55 % 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.45 % 
+VS Code                  14 hrs 17 mins      █████████████████████████   99.45 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.55 % 
 
 💻 Operating System: 
-Windows                  16 hrs 54 mins      ████████████████████████░   95.73 % 
-Linux                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    4.27 % 
+Windows                  13 hrs 37 mins      ████████████████████████░   94.75 % 
+Linux                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    5.25 % 
 ```
 
 
- Last Updated on 18/03/2026 10:47:36 UTC+8
+ Last Updated on 19/03/2026 10:49:13 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
