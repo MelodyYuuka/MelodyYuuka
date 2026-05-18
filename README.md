@@ -24,30 +24,8 @@
 ![](https://wakatime.com/badge/user/fa6dc0e2-47c5-4d2d-ae45-69fec6f2122c.svg)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     22 hrs 35 mins      █████████████░░░░░░░░░░░░   53.07 % 
-Python                   7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-YAML                     7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-XML                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    2.45 % 
-HTML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    2.32 % 
-
-🔥 Editors: 
-IntelliJ IDEA            23 hrs 51 mins      ██████████████░░░░░░░░░░░   56.05 % 
-VS Code                  16 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   39.16 % 
-Unknown Editor           2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.79 % 
-
-💻 Operating System: 
-Windows                  28 hrs 39 mins      █████████████████░░░░░░░░   67.32 % 
-Linux                    13 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   32.68 % 
-```
-
-
- Last Updated on 17/05/2026 12:01:53 UTC+8
+ Last Updated on 18/05/2026 12:14:52 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
