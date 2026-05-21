@@ -46,6 +46,14 @@ jobs:
           path: static/github-stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
+      - name: Generate wakatime card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=MelodyYuyuko&layout=compact&hide_border=true
+          path: static/github-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
       - run: |
           git config user.name "MelodyYuuka"
           git config user.email "81250368+MelodyYuuka@users.noreply.github.com"
