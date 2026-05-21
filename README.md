@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://raw.githubusercontent.com/MelodyYuuka/MelodyYuuka/refs/heads/master/static/github-stats.svg" />
+  <img align="right" src="https://raw.githubusercontent.com/MelodyYuuka/MelodyYuuka/refs/heads/main/static/github-stats.svg" />
 </a>
 
 **👋 Hi there, I`m Melody.**
