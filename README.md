@@ -8,6 +8,12 @@
 - 🌱 I’m currently learning: AI, Go, Rust and more!
 - 📫 How to reach me: melody@yunmengdu.cn
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="static/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="static/github-contribution-grid-snake.svg" />
+  <img style="text-align: center;" alt="github-snake" src="github-snake.svg" />
+</picture>
+
 🌟 **My Skills** 
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
