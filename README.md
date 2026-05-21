@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=melodyyuuka&count_private=true&show_icons=true" />
+  <img align="right" src="https://raw.githubusercontent.com/MelodyYuuka/MelodyYuuka/refs/heads/master/static/github-stats.svg" />
 </a>
 
 **👋 Hi there, I`m Melody.**
