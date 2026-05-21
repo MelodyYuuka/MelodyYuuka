@@ -51,7 +51,7 @@ jobs:
         with:
           card: wakatime
           options: username=MelodyYuyuko&layout=compact&hide_border=true
-          path: static/github-stats.svg
+          path: static/wakatime-stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
       - run: |
