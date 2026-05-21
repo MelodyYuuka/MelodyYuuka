@@ -52,4 +52,6 @@ Linux                    11 hrs 43 mins      █████████░░�
 
 ## 🥰 **Using Language**
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=MelodyYuyuko&layout=compact&hide_border=true)
+<a href="#">
+  <img align="right" src="https://raw.githubusercontent.com/MelodyYuuka/MelodyYuuka/refs/heads/main/static/wakatime-stats.svg" />
+</a>
