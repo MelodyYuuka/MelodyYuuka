@@ -30,14 +30,12 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_TOTAL_CODE_TIME: "False"
 
-  github:
-    name: Update GitHub stats
+  github-stats:
+    name: Generate GitHub stats
     runs-on: ubuntu-latest
-    # run after wakatime to avoid commit conflict
     needs: [update-readme]
     steps:
       - uses: actions/checkout@v6
-
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v1
         with:
@@ -45,7 +43,17 @@ jobs:
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC
           path: static/github-stats.svg
           token: ${{ secrets.GH_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: github-stats
+          path: static/github-stats.svg
 
+  wakatime-stats:
+    name: Generate WakaTime stats
+    runs-on: ubuntu-latest
+    needs: [update-readme]
+    steps:
+      - uses: actions/checkout@v6
       - name: Generate wakatime card
         uses: stats-organization/github-readme-stats-action@v1
         with:
@@ -53,11 +61,59 @@ jobs:
           options: username=MelodyYuyuko&layout=compact&hide_border=true
           path: static/wakatime-stats.svg
           token: ${{ secrets.GH_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: wakatime-stats
+          path: static/wakatime-stats.svg
 
-      - run: |
+  snake:
+    name: Generate snake
+    runs-on: ubuntu-latest
+    needs: [update-readme]
+    steps:
+      - uses: actions/checkout@v6
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./static/github-contribution-grid-snake.gif
+            ./static/github-contribution-grid-snake.svg
+            ./static/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: static
+
+  commit:
+    name: Commit generated assets
+    runs-on: ubuntu-latest
+    needs: [github-stats, wakatime-stats, snake]
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: github-stats
+          path: static
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: wakatime-stats
+          path: static
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: snake
+          path: static
+
+      - name: Commit
+        run: |
           git config user.name "MelodyYuuka"
           git config user.email "81250368+MelodyYuuka@users.noreply.github.com"
           git add static
-          git pull
-          git diff-index --quiet HEAD || git commit -m ":bento: update github stats"
+          git diff --cached --quiet || git commit -m ":bento: update github stats"
+          git pull --rebase
           git push
