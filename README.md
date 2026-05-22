@@ -36,24 +36,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.75 % 
-Python                   7 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-YAML                     4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-HTML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.43 % 
-XML                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    2.97 % 
+Java                     15 hrs 7 mins       █████████████░░░░░░░░░░░░   50.80 % 
+Python                   5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+YAML                     4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+HTML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.66 % 
+XML                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    2.68 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 5 mins       ████████████░░░░░░░░░░░░░   47.63 % 
-VS Code                  13 hrs 53 mins      ███████████░░░░░░░░░░░░░░   43.82 % 
-Claude Code              2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    8.55 % 
+IntelliJ IDEA            15 hrs 38 mins      █████████████░░░░░░░░░░░░   52.53 % 
+VS Code                  11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   38.86 % 
+Claude Code              2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    8.61 % 
 
 💻 Operating System: 
-Windows                  19 hrs 57 mins      ████████████████░░░░░░░░░   62.99 % 
-Linux                    11 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   37.01 % 
+Windows                  19 hrs 44 mins      █████████████████░░░░░░░░   66.33 % 
+Linux                    10 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   33.67 % 
 ```
 
 
- Last Updated on 21/05/2026 17:46:53 UTC+8
+ Last Updated on 22/05/2026 12:13:46 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
