@@ -30,8 +30,30 @@
 ![](https://wakatime.com/badge/user/fa6dc0e2-47c5-4d2d-ae45-69fec6f2122c.svg)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 12:14:35 UTC+8
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     17 hrs 23 mins      ███████████░░░░░░░░░░░░░░   45.23 % 
+Python                   9 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Markdown                 3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    9.91 % 
+YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    9.18 % 
+JSON                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    5.80 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 45 mins      ████████████░░░░░░░░░░░░░   46.18 % 
+IntelliJ IDEA            16 hrs 22 mins      ███████████░░░░░░░░░░░░░░   42.56 % 
+Claude Code              4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+
+💻 Operating System: 
+Windows                  26 hrs 34 mins      █████████████████░░░░░░░░   69.09 % 
+Linux                    11 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.91 % 
+```
+
+
+ Last Updated on 30/05/2026 11:59:43 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
