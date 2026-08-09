@@ -36,25 +36,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs              █████████████████░░░░░░░░   67.40 % 
-Markdown                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Rust                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.76 % 
-JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.40 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    3.84 % 
+Python                   16 hrs 7 mins       ███████████████░░░░░░░░░░   60.33 % 
+Markdown                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Rust                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    6.59 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.20 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    4.06 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 15 mins      ██████████████░░░░░░░░░░░   56.52 % 
-Codex CLI                8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-Claude Code              1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    6.86 % 
-IntelliJ IDEA            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    2.11 % 
+VS Code                  14 hrs 36 mins      ██████████████░░░░░░░░░░░   54.64 % 
+Codex CLI                8 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Claude Code              2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+IntelliJ IDEA            31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░    1.99 % 
 
 💻 Operating System: 
-Windows                  23 hrs 24 mins      ███████████████████████░░   92.75 % 
-Linux                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    7.25 % 
+Windows                  23 hrs 10 mins      ██████████████████████░░░   86.72 % 
+Linux                    3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 
 
- Last Updated on 08/08/2026 10:01:13 UTC+8
+ Last Updated on 09/08/2026 10:08:57 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
