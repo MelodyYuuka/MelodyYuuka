@@ -36,24 +36,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 2 mins       █████████████░░░░░░░░░░░░   50.31 % 
-Other                    16 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.08 % 
-Markdown                 4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    9.64 % 
-TOML                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.07 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    2.02 % 
+Python                   29 hrs 33 mins      ██████████████░░░░░░░░░░░   57.84 % 
+Other                    11 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Markdown                 5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+TOML                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.11 % 
+JSON                     59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░    1.93 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 7 mins       ████████████░░░░░░░░░░░░░   46.62 % 
-Claude Code              15 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Codex CLI                11 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+VS Code                  24 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.18 % 
+Claude Code              22 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.39 % 
+Codex CLI                4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    8.43 % 
 
 💻 Operating System: 
-Windows                  48 hrs 9 mins       ███████████████████████░░   93.07 % 
-Linux                    3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    6.93 % 
+Windows                  47 hrs 29 mins      ███████████████████████░░   92.94 % 
+Linux                    3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    7.06 % 
 ```
 
 
- Last Updated on 27/08/2026 16:43:30 UTC+8
+ Last Updated on 28/08/2026 18:55:49 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
