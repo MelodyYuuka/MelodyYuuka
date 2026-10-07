@@ -36,22 +36,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
-Markdown                 4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Other                    2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    7.89 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    3.61 % 
+Python                   7 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
+Markdown                 4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.94 % 
+TOML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░    4.25 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 26 mins      █████████████████████████   99.74 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.26 % 
 
 💻 Operating System: 
-Windows                  10 hrs 37 mins      ██████████████░░░░░░░░░░░   57.34 % 
-Linux                    7 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.66 % 
+Windows                  11 hrs 44 mins      ████████████████░░░░░░░░░   63.49 % 
+Linux                    6 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
 ```
 
 
- Last Updated on 06/10/2026 13:53:39 UTC+8
+ Last Updated on 07/10/2026 13:26:39 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
