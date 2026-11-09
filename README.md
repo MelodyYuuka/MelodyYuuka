@@ -30,8 +30,6 @@
 ![](https://wakatime.com/badge/user/fa6dc0e2-47c5-4d2d-ae45-69fec6f2122c.svg)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-594%20hrs%203%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -76,7 +74,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/11/2026 15:22:21 UTC+8
+ Last Updated on 09/11/2026 18:41:11 UTC+8
 <!--END_SECTION:waka-->
 
 ## 🥰 **Using Language**
