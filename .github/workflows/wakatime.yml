@@ -8,6 +8,9 @@ on:
     paths:
       - .github/workflows/wakatime.yml
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
